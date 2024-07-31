@@ -1,0 +1,30 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+header{
+    background-color: #168aad;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    display: flex;   
+    justify-content: center; 
+/* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+
+ 
+
+ 
+}
+.container{
+   
+    display: flex;
+}
+.artigo{
+    background-color: #76c893;
+    margin: 5px;
+    padding: 20px;
+}
